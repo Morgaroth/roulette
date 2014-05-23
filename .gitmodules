@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Morgaroth/roulette-backend.git
+[submodule "plugin"]
+	path = plugin
+	url = git@github.com:Morgaroth/roulette-plugin.git
